@@ -774,4 +774,12 @@ footer p{
         gap: 1px;
     }
 
+    section{
+        height: 160vh;
+    }
+
+    .card.sticky {
+        position: relative;
+    }
+
 }
